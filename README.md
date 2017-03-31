@@ -1,4 +1,4 @@
-# planets
+# planets - data carpentry
 Example from Data Carpentry workshop
 
 We started working on this yesterday.
